@@ -1,6 +1,6 @@
-# 📋 Interview Assessment
+# 📋 Technical Assessment
 
-This repository contains the solutions to three interview assessment tasks. Each solution is provided in a separate folder with the associated code and test cases.
+This repository contains the solutions to three technical assessment tasks. Each solution is provided in a separate folder with the associated code and test cases.
 
 ## 📂 Repository Structure
 
